@@ -1,0 +1,37 @@
+{
+  "orgName": "Jeffreys Henry",
+	"country": "GB",
+	"edition": "Enterprise",
+	"language": "en_GB",
+  	"features": ["PersonAccounts", "ContactsToMultipleAccounts"],
+	"settings": {
+		"accountSettings": {
+			"enableRelateContactToMultipleAccounts": true
+		},
+		"quoteSettings": {
+			"enableQuote": true
+		},
+		"userManagementSettings": {
+			"enableEnhancedPermsetMgmt": true,
+			"enableEnhancedProfileMgmt": true,
+			"enableNewProfileUI": true
+		},
+		"securitySettings": {
+			"enableAdminLoginAsAnyUser": true,
+			"enableAuditFieldsInactiveOwner": true
+		},
+		"enhancedNotesSettings": {
+			"enableEnhancedNotes": true
+		},
+		"pathAssistantSettings": {
+			"pathAssistantEnabled": true
+		},
+		"mobileSettings": {
+			"enableS1EncryptedStoragePref2": false
+		},
+		"nameSettings": {
+			"enableMiddleName": true,
+			"enableNameSuffix": true
+		}
+	}
+}
